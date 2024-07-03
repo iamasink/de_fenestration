@@ -1,0 +1,7 @@
+"name_remap_table"
+{
+	"src2filenamechange"
+	{
+		"maps\de_fenestration_v8_prefab.vmap"		"maps\de_fenestration_v8.vmf"
+	}
+}

@@ -1,0 +1,31 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"Attributes"
+	{
+		"mapbuilder.passbullets"		"1"
+	}
+	"TextureLayer1Color"		"materials/metal/metalfence007a_color.tga"
+	"TextureLayer1Translucency"		"materials/metal/metalfence007a_trans.tga"
+	"F_TRANSLUCENT"		"1"
+	"TextureLayer1Roughness"		"materials/default/default_rough_s1import.tga"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"0"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"F_TEXTURETRANSFORMS"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"chainlink"
+	}
+	"legacy_import"
+	{
+		"LightmappedGeneric"
+		{
+			"$basetexture"		"Metal/metalfence007a"
+			"%compilepassbullets"		"1"
+			"$surfaceprop"		"chainlink"
+			"%keywords"		"c17downtown"
+			"$translucent"		"1"
+		}
+	}
+}
