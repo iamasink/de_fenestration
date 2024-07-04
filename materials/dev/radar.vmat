@@ -1,0 +1,12 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "csgo_composite_generic.vfx"
+
+	g_flAlphaBlend "0.000"
+
+	//---- Options ----
+	TextureA ""
+	TextureB ""
+}
